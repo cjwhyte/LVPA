@@ -9,7 +9,7 @@ clear
 %% simulation settings
 
 % set to 0 for preloading data and 1 to run sims
-simulation = 0;
+simulation = 1;
 
 % number of sims
 num_sims = 50;
