@@ -8,7 +8,7 @@ clear
 
 %% simulation settings
 
-simulation = 0;
+simulation = 1;
 
 % number of sims
 num_sims =  30;
