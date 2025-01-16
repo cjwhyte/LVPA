@@ -9,4 +9,4 @@ The full code necessary to reproduce all simulations reported in the paper can b
  - Visual rivalry simulations in the [LVBR folder](https://github.com/cjwhyte/LVPA/tree/main/LVBR)
  - Supplementary simulations can be found in the [Supplementary_Material folder](https://github.com/cjwhyte/LVPA/tree/main/Supplementary_Material)
 
-The threshold detection simulations use the function script [ThalamoCorticalParams.m](https://github.com/cjwhyte/LVPA/blob/main/LVBR/ThalamoCorticalParams.m) which is included in the LVBR folder. 
+The threshold detection simulations use the function script [ThalamoCorticalParams.m](https://github.com/cjwhyte/LVPA/blob/main/LVBR/ThalamoCorticalParams.m) which is included in the LVBR folder, so both folders will need to be added to the MATLAB path. 
